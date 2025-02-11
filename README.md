@@ -11,7 +11,8 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabryel-barboza&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabryel-barboza&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=DIO)](https://github.com/gabryel-barboza/DIO)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=DIO&show-owner=true)](https://github.com/gabryel-barboza/DIO)
 
