@@ -21,6 +21,9 @@
 ### 📖 Estudando Sobre
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 
+### 📦 Meus Repositórios
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=DIO&show_owner=true)](https://github.com/gabryel-barboza/DIO)
+
 <br><br>
 <div align="center">
 <picture>
@@ -32,11 +35,4 @@
 </picture>
 </div>
 
-### 📦 Meus Repositórios
-
-<div align="center">
-  <a href="https://github.com/gabryel-barboza/DIO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=DIO&show_owner=true" />
-  </a>
-</div>
 
