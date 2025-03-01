@@ -5,7 +5,7 @@
 </div>
 <br><br>
 
-<p align="center"> <q>Me chamo <b><i>Gabryel Barboza</i></b> e sou um <b>estudante e universitário</b> de tecnologia.</q> </p>
+<p align="center"> <q>Me chamo <b><i>Gabryel Barboza</i></b> e sou um <b>estudante e entusiasta</b> de tecnologia.</q> </p>
 
 ### 👤 Social
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
