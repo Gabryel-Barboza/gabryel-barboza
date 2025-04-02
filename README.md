@@ -20,9 +20,9 @@
 
 ### 📖 Estudando Sobre
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ### 📦 Meus Repositórios
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=DIO&show_owner=true)](https://github.com/gabryel-barboza/DIO)
