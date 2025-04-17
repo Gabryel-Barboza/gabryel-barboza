@@ -7,6 +7,17 @@
 
 <p align="center"> <q>Me chamo <b><i>Gabryel Barboza</i></b> e sou um <b>estudante e entusiasta</b> de tecnologia.</q> </p>
 
+<br>
+<div align="center">
+<picture>
+ <source
+    srcset="https://github-readme-stats.vercel.app/api?username=gabryel-barboza&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-pt"
+    media="(prefers-color-scheme: dark)"
+  />
+ <img src="https://github-readme-stats.vercel.app/api?username=gabryel-barboza&show_icons=true&theme=default&include_all_commits=true&locale=pt-pt" />
+</picture>
+</div>
+
 ### 👤 Social
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
@@ -27,16 +38,5 @@
 ### 📦 Meus Repositórios
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=DIO&show_owner=true)](https://github.com/gabryel-barboza/DIO)
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=dio_bank&show_owner=true)](https://github.com/gabryel-barboza/dio_bank)
-
-<br><br>
-<div align="center">
-<picture>
- <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gabryel-barboza&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-pt"
-    media="(prefers-color-scheme: dark)"
-  />
- <img src="https://github-readme-stats.vercel.app/api?username=gabryel-barboza&show_icons=true&theme=default&include_all_commits=true&locale=pt-pt" />
-</picture>
-</div>
 
 
