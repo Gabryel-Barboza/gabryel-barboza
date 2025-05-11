@@ -38,5 +38,4 @@
 ### 📦 Meus Repositórios
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=DIO&show_owner=true)](https://github.com/gabryel-barboza/DIO)
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=dio_bank&show_owner=true)](https://github.com/gabryel-barboza/dio_bank)
-
-
+[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=django_learn&show_owner=true)](https://github.com/gabryel-barboza/django_learn)
