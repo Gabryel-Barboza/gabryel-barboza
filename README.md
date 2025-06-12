@@ -8,15 +8,11 @@
 <p align="center"> <q>Me chamo <b><i>Gabryel Barboza</i></b> e sou um <b>estudante e entusiasta</b> de tecnologia.</q> </p>
 
 <br>
-<div align="center">
 <picture>
- <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gabryel-barboza&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-pt"
-    media="(prefers-color-scheme: dark)"
-  />
- <img src="https://github-readme-stats.vercel.app/api?username=gabryel-barboza&show_icons=true&theme=default&include_all_commits=true&locale=pt-pt" />
+<p align="center">
+<img src="/github-metrics.svg" alt="Minhas metricas">
+</p>
 </picture>
-</div>
 
 ### 👤 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabryel-barboza-nunes-35a9a6311/)
