@@ -27,7 +27,9 @@ jobs:
           user: Gabryel-Barboza
           template: classic
           base: header, activity, community, repositories, metadata
+          base_hireable: yes
           config_timezone: America/Sao_Paulo
+          plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
