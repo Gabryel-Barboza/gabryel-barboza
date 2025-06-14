@@ -9,7 +9,7 @@
   },
   {
     "name": "Pokedex",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/pokedex/pokedex.png",
     "description": "Um desafio realizado durante o curso para aprender JavaScript com o objetivo de criar uma Pokedex que consome a PokeAPI para retornar os dados de cada pokemon.",
     "tags": ["html5", "css3", "javascript", "site"],
     "last_update": "2024-07-29",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Portfolio Tailwind CSS",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/portfolio_tailwind/portfolio_tailwind.png",
     "description": "Meu primeiro portfólio criado com o framework TailwindCSS e conta com um resumo simples sobre mim no momento de sua criação. Esse projeto foi feito para aplicar conceitos do framework em questão.",
     "tags": ["html5", "css3", "tailwindcss", "site"],
     "last_update": "2024-07-28",
