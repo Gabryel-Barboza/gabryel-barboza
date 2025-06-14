@@ -1,7 +1,7 @@
 [
   {
     "name": "HBO Clone",
-    "imageUrl": "https://github.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/hbo_clone/hbo_clone_image.png",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/hbo_clone/hbo_clone_image.png",
     "description": "Um site desenvolvido durante meu curso para aprender CSS. É um clone de uma versão do site de assinaturas da HBO, feito apenas com HTML e CSS para por em prática os conhecimentos de CSS, incluindo a criação de animações.",
     "tags": ["html5", "css3", "site"],
     "last_update": "2024-07-27",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Pokedex",
-    "imageUrl": "https://github.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
     "description": "Um desafio realizado durante o curso para aprender JavaScript com o objetivo de criar uma Pokedex que consome a PokeAPI para retornar os dados de cada pokemon.",
     "tags": ["html5", "css3", "javascript", "site"],
     "last_update": "2024-07-29",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Portfolio v-tailwindcss",
-    "imageUrl": "https://github.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
     "description": "Meu primeiro portfólio criado com o framework TailwindCSS e conta com um resumo simples sobre mim no momento de sua criação. Esse projeto foi feito para aplicar conceitos do framework em questão.",
     "tags": ["html5", "css3", "tailwindcss", "site"],
     "last_update": "2024-07-28",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Portfolio v-javascript",
-    "imageUrl": "https://github.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
     "description": "Uma segunda versão de portfólio feita utilizando JavaScript e CSS apenas. Esse projeto consta com o consumo de um repositório via HTTP para recuperar os dados a serem preenchidos no site.",
     "tags": ["html5", "css3", "javascript", "site"],
     "last_update": "2024-07-31",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Express Champions League",
-    "imageUrl": "https://github.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
     "description": "Esse projeto foi desenvolvido enquanto eu explorava a criação de APIs com a arquitetura MVC. O projeto foi implementado utilizando NodeJs, a API consiste em um servidor back-end para fornecer dados sobre jogadores de futebol de um repositório simples local.",
     "tags": ["javascript", "nodejs", "api"],
     "last_update": "2025-02-07",
@@ -41,7 +41,7 @@
   },
   {
     "name": "DIO Bank",
-    "imageUrl": "https://github.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
     "description": "O meu projeto mais completo até o momento, API construída seguindo a arquitetura MVC e na linguagem Python. Essa aplicação simula um sistema bancário simples por API, permitindo criar usuários, contas e transações. Além do funcionamento básico, a aplicação conta com sistema de autenticação, integração com banco de dados, deploy e outros.",
     "tags": ["python", "fastapi", "mysql", "api"],
     "last_update": "2025-05-08",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Django Ecommerce",
-    "imageUrl": "https://github.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
     "description": "Projeto de construção de uma aplicação fullstack com Django e VueJs. O projeto ainda está em andamento e construção...",
     "tags": ["python", "typescript", "tailwindcss", "django", "vuejs", "fullstack app"],
     "last_update": "2025-06-10",
@@ -57,7 +57,7 @@
   },
   {
     "name": "VueJs Todo List",
-    "imageUrl": "https://github.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
     "description": "Uma aplicação SPA para uma lista de tarefas interativa, feita utilizando o framework VueJs para aplicar os conhecimentos aprendidos. O projeto engloba as principais funcionalidades do framework front-end, como roteamento de páginas, gerenciamento de estados e reatividade.",
     "tags": ["typescript", "vuejs", "site"],
     "last_update": "2025-06-01",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Python Chatbot",
-    "imageUrl": "https://github.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
     "description": "Lorem ipsum",
     "tags": ["python", "AI", "Agentic AI", "fullstack app"],
     "last_update": "2025-06-07",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Rag Agent Chatbot",
-    "imageUrl": "https://github.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/tree/main/projects/",
     "description": "Lorem ipsum",
     "tags": ["Agentic AI"],
     "last_update": "2025-06-10",
