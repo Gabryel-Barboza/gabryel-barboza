@@ -25,7 +25,7 @@
   },
   {
     "name": "Portfolio JavaScript",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/portfolio_js/portfolio_js.png",
     "description": "Uma segunda versão de portfólio feita utilizando JavaScript e CSS apenas. Esse projeto consta com o consumo de um repositório via HTTP para recuperar os dados a serem preenchidos no site.",
     "tags": ["html5", "css3", "javascript", "site"],
     "last_update": "2024-07-31",
