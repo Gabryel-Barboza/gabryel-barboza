@@ -1,0 +1,31 @@
+{
+  "name": "Gabryel",
+  "age": "20",
+  "job": "",
+  "sex": "m",
+  "bio": "Sou um engenheiro de software apaixonado por criar aplicações funcionais e eficientes, também gosto de explorar o mundo da tecnologia e descobrir novas ferramentas, por isso busco aprender sobre áreas como cibersegurança, devops e ciências de dados. Tenho como princípio o aprendizado contínuo, buscando me aperfeiçoar onde for possível e necessário. Atualmente, estou buscando uma oportunidade para seguir carreira na área de tecnologia.",
+  "hobbies": [
+    {"hobby": "fazer musculação", "description": "A saúde é um fator primordial para qualquer pessoa, então gosto de me dedicar na prática de exercícios físicos, principalmente na musculação. É um hobby que proporciona saúde física e mental, o que torna o cotidiano menos estressante."},
+    {"hobby": "jogar videogames", "description": "Um dos meus principais hobbies desde os sete anos de idade, sou uma pessoa aficionada por jogos e principalmente aqueles do gênero RPG. A cargo de curiosidade, os meus jogos favoritos (alguns de muitos) são: Minecraft, Persona 5 Royal, Elden Ring"},
+    {"hobby": "estudar", "description": "Estudar também é um hobby que eu tenho no tempo livre, onde busco aprender temas diferentes e que estou interessado no momento."},
+  ],
+  "stack": [
+    {"python": "Principal linguagem que utilizo para desenvolvimento, geralmente para criar APIs de back-end com FastAPI ou Django. Porém também para usos variados: scripts de automatização, ciência de dados, agentes autônomos, aplicativos e em breve jogos."},
+    {"typescript/javascript"}: "Minha segunda linguagem mais utilizada, extremamente necessária para desenvolver aplicações web seja back-end com Express ou front-end com Vue.Js."},
+    {"mysql"}: "Sistema gerenciador de banco de dados do qual possuo maior experiência, onde aprendi alguns tópicos mais avançados como gerenciamento de transações e aperfeiçoei minha lógica de SQL."},
+    {"mongodb"}: "Banco de dados NoSQL para criar algumas automações, já possuo um pouco de conhecimento dessa tecnologia."},
+    {"tailwindcss": "Minha biblioteca de UI preferida para acelerar o desenvolvimento de interfaces web, gosto da performance e eficiência ao usá-la."},
+    {"extra": [
+      {"php": "Como necessidade para trabalhos e provas da faculdade, aprendi a sintaxe da linguagem PHP e achei esta interessante."}, 
+      {"docker": "Aprendi a criar contêineres do Docker, a utilizar o Compose para uma orquestração simples de contêineres e também o Docker Swarm para sistemas maiores. Gosto dessa tecnologia, pois me permite explorar a arquitetura de microsserviços melhor."},
+      {"linux": "Depois de um tempo utilizando o Windows, busquei descobrir sobre novos sistemas operacionais. A primeira distribuição que comecei foi o Ubuntu e desde então é o que uso no cotidiano, a produtividade e liberdade disponibilizada pelo terminal é algo que me fascinou."},
+      {"n8n": "Com um curso de agentes autônomos que fiz, comecei a utilizar essa ferramenta localmente com Docker e percebi o seu potencial para automatizações. Então, quando quero automatizar algo sem ser em Python, utilizo o N8N."},
+    ]}
+  ],
+  "education": {
+    "degrees": [
+      {"college": "Centro Universitário Leonardo Davinci - Uniasselvi", "course": "Tecnólogo em Análise e Desenvolvimento de Sistemas", "date": "01/2024 - 07/2026"}
+    ]
+    "courses": []
+  }
+}
