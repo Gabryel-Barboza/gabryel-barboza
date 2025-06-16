@@ -1,6 +1,10 @@
 {
-  "name": "Gabryel",
+  "name": "Gabryel Barboza",
   "age": "20",
+  "contacts": {
+    "email": "gabryelbuildbarboza@gmail.com",
+    "phone": "5561984954248"
+  },
   "job": "",
   "sex": "m",
   "bio": "Sou um engenheiro de software apaixonado por criar aplicações funcionais e eficientes, também gosto de explorar o mundo da tecnologia e descobrir novas ferramentas, por isso busco aprender sobre áreas como cibersegurança, devops e ciências de dados. Tenho como princípio o aprendizado contínuo, buscando me aperfeiçoar onde for possível e necessário. Atualmente, estou buscando uma oportunidade para seguir carreira na área de tecnologia.",
