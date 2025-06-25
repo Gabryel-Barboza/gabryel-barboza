@@ -27,7 +27,7 @@
       "name": "python", "description": "Principal linguagem que utilizo para desenvolvimento, geralmente para criar APIs de back-end com FastAPI ou Django. Porém também para usos variados: scripts de automatização, ciência de dados, agentes autônomos, aplicativos e em breve jogos."
     },
     {
-      "name": "typescript/javascript", "description": "Minha segunda linguagem mais utilizada, extremamente necessária para desenvolver aplicações web seja back-end com Express ou front-end com Vue.Js."
+      "name": "typescript", "description": "Minha segunda linguagem mais utilizada, extremamente necessária para desenvolver aplicações web seja back-end com Express ou front-end com Vue.Js."
     },
     {
       "name": "mysql", "description": "Sistema gerenciador de banco de dados do qual possuo maior experiência, onde aprendi alguns tópicos mais avançados como gerenciamento de transações e aperfeiçoei minha lógica de SQL."
