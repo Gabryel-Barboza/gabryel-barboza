@@ -34,7 +34,7 @@
   {
     "name": "Express Champions League",
     "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
-    "description": "Esse projeto foi desenvolvido enquanto eu explorava a criação de APIs com a arquitetura MVC. O projeto foi implementado utilizando NodeJs e o framework Express, a API consiste em um servidor back-end para fornecer dados sobre jogadores de futebol de um repositório simples local.",
+    "description": "Esse projeto foi desenvolvido enquanto eu explorava a criação de APIs REST com a arquitetura MVC. O projeto foi implementado utilizando NodeJs e o framework Express, a API consiste em um servidor back-end para fornecer dados sobre jogadores de futebol de um repositório simples local.",
     "tags": ["javascript", "nodejs", "api", "backend"],
     "lastUpdate": "07/02/2025",
     "projectUrl": "https://github.com/Gabryel-Barboza/DIO/tree/JavaScript/web_developer/nodejs/00_Desafios/06_champions_league_api"
@@ -42,7 +42,7 @@
   {
     "name": "DIO Bank",
     "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/dio_bank/dio-bank.png",
-    "description": "O meu projeto mais completo até o momento, API construída seguindo a arquitetura MVC e na linguagem Python, através do framework FastAPI. Essa aplicação simula um sistema bancário simples por API, permitindo criar usuários, contas e transações. Além do funcionamento básico, a aplicação conta com sistema de autenticação, integração com banco de dados, deploy e outros.",
+    "description": "O meu projeto mais completo até o momento, API RESTful construída seguindo a arquitetura MVC e na linguagem Python, através do framework FastAPI. Essa aplicação simula um sistema bancário simples por API, permitindo criar usuários, contas e transações. Além do funcionamento básico, a aplicação conta com sistema de autenticação, integração com banco de dados, deploy e outros.",
     "tags": ["python", "fastapi", "mysql", "api", "backend"],
     "lastUpdate": "08/05/2025",
     "projectUrl": "https://github.com/Gabryel-Barboza/dio_bank"
@@ -67,7 +67,7 @@
     "name": "Python Chatbot",
     "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/python_chatbot/python-chatbot.png",
     "description": "Um projeto realizado durante a imersão de Agentes Autônomos da Alura, com o objetivo de criar um agente seguindo o estilo de um chatbot (ou mensageiro de conversas) para responder à perguntas do usuário. O foco maior está no agente construído utilizando o ADK do Google, porém uma interface simples com Js e CSS puro foi criada.",
-    "tags": ["python", "AI", "Agentic AI", "fullstack app"],
+    "tags": ["python", "AI", "agentic AI", "fullstack app"],
     "lastUpdate": "07/06/2025",
     "projectUrl": "https://github.com/Gabryel-Barboza/python_chatbot"
   },
