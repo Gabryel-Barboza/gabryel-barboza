@@ -41,7 +41,7 @@
   },
   {
     "name": "DIO Bank",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/dio_bank/dio-bank.png",
     "description": "O meu projeto mais completo até o momento, API construída seguindo a arquitetura MVC e na linguagem Python, através do framework FastAPI. Essa aplicação simula um sistema bancário simples por API, permitindo criar usuários, contas e transações. Além do funcionamento básico, a aplicação conta com sistema de autenticação, integração com banco de dados, deploy e outros.",
     "tags": ["python", "fastapi", "mysql", "api", "backend"],
     "lastUpdate": "08/05/2025",
@@ -57,7 +57,7 @@
   },
   {
     "name": "VueJs Todo List",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/vue_todo_list/vuejs-todo-list.png",
     "description": "Uma aplicação SPA para uma lista de tarefas interativa, feita utilizando o framework VueJs para aplicar os conhecimentos aprendidos. O projeto engloba as principais funcionalidades do framework front-end, como roteamento de páginas, gerenciamento de estados e reatividade.",
     "tags": ["typescript", "vuejs", "site", "frontend"],
     "lastUpdate": "01/06/2025",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Python Chatbot",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/python_chatbot/python-chatbot.png",
     "description": "Um projeto realizado durante a imersão de Agentes Autônomos da Alura, com o objetivo de criar um agente seguindo o estilo de um chatbot (ou mensageiro de conversas) para responder à perguntas do usuário. O foco maior está no agente construído utilizando o ADK do Google, porém uma interface simples com Js e CSS puro foi criada.",
     "tags": ["python", "AI", "Agentic AI", "fullstack app"],
     "lastUpdate": "07/06/2025",
@@ -73,7 +73,7 @@
   },
   {
     "name": "RAG Agent Chatbot",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/rag_agent_chatbot/rag-agent-chatbot.png",
     "description": "Projeto desenvolvido para o curso I2A2 de agentes autônomos, utiliza as tecnologias Docker, N8N, Flask e JavaScript para criar um chatbot com uma base de dados de notas fiscais (RAG). O projeto foi dividido em contêineres Docker que se comunicam por uma mesma rede, onde um desses está o back-end do N8N para criação do fluxo do agente.",
     "tags": ["agentic AI", "python", "docker", "fullstack app"],
     "lastUpdate": "10/06/2025",
