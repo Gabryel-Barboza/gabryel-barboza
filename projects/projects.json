@@ -51,7 +51,7 @@
     "name": "Django Ecommerce",
     "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
     "description": "Projeto de construção de uma aplicação fullstack com Django e VueJs. O projeto ainda está em andamento e construção...",
-    "tags": ["python", "typescript", "tailwindcss", "django", "vuejs", "fullstack app"],
+    "tags": ["python", "typescript", "tailwindcss", "django", "vuejs", "fullstack"],
     "lastUpdate": "10/06/2025",
     "projectUrl": "https://github.com/Gabryel-Barboza/django_learn/tree/main/learn_ecommerce"
   },
@@ -67,7 +67,7 @@
     "name": "Python Chatbot",
     "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/python_chatbot/python-chatbot.png",
     "description": "Um projeto realizado durante a imersão de Agentes Autônomos da Alura, com o objetivo de criar um agente seguindo o estilo de um chatbot (ou mensageiro de conversas) para responder à perguntas do usuário. O foco maior está no agente construído utilizando o ADK do Google, porém uma interface simples com Js e CSS puro foi criada.",
-    "tags": ["python", "AI", "agentic AI", "fullstack app"],
+    "tags": ["python", "AI", "agentic AI", "fullstack"],
     "lastUpdate": "07/06/2025",
     "projectUrl": "https://github.com/Gabryel-Barboza/python_chatbot"
   },
@@ -75,7 +75,7 @@
     "name": "RAG Agent Chatbot",
     "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/rag_agent_chatbot/rag-agent-chatbot.png",
     "description": "Projeto desenvolvido para o curso I2A2 de agentes autônomos, utiliza as tecnologias Docker, N8N, Flask e JavaScript para criar um chatbot com uma base de dados de notas fiscais (RAG). O projeto foi dividido em contêineres Docker que se comunicam por uma mesma rede, onde um desses está o back-end do N8N para criação do fluxo do agente.",
-    "tags": ["agentic AI", "python", "docker", "fullstack app"],
+    "tags": ["agentic AI", "python", "docker", "fullstack"],
     "lastUpdate": "10/06/2025",
     "projectUrl": "https://github.com/gabryel-barboza/rag_agent_chatbot"
   }
