@@ -7,7 +7,7 @@
   },
   "job": "",
   "sex": "m",
-  "bio": "Sou um engenheiro de software apaixonado por criar aplicações funcionais e eficientes, também gosto de explorar o mundo da tecnologia e descobrir novas ferramentas, por isso busco aprender sobre áreas como cibersegurança, devops e ciências de dados. Tenho como princípio o aprendizado contínuo, buscando me aperfeiçoar onde for possível e necessário. Atualmente, estou buscando uma oportunidade para seguir carreira na área de tecnologia.",
+  "bio": "Sou um engenheiro de software apaixonado por criar aplicações funcionais e eficientes, também gosto de explorar o mundo da tecnologia e descobrir novas ferramentas, por isso busco aprender sobre áreas como cibersegurança e devops para aprimorar os meus projetos e automatizações. Tenho como princípio o aprendizado contínuo, buscando me aperfeiçoar onde for possível e necessário. Atualmente, estou buscando uma oportunidade para seguir carreira na área de tecnologia.",
   "hobbies": [
     {
       "hobby": "fazer musculação",
@@ -42,13 +42,13 @@
     {
       "name": "tailwindcss",
       "description": "Minha biblioteca de UI preferida para acelerar o desenvolvimento de interfaces web, gosto da performance e eficiência ao usá-la."
+    },
+    {
+      "name": "php",
+      "description": "Como necessidade para trabalhos e provas da faculdade, aprendi a sintaxe da linguagem PHP e achei esta interessante. Portanto, possuo conhecimento prévio desta linguagem para criação de aplicações SSR."
     }
   ],
   "extra": [
-    {
-      "name": "php",
-      "description": "Como necessidade para trabalhos e provas da faculdade, aprendi a sintaxe da linguagem PHP e achei esta interessante."
-    },
     {
       "name": "docker",
       "description": "Aprendi a criar contêineres do Docker, a utilizar o Compose para uma orquestração simples de contêineres e também o Docker Swarm para sistemas maiores. Gosto dessa tecnologia, pois me permite explorar a arquitetura de microsserviços melhor."
