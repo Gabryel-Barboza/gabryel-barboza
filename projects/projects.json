@@ -24,12 +24,12 @@
     "projectUrl": "https://github.com/Gabryel-Barboza/DIO/tree/JavaScript/web_developer/nodejs/00_Desafios/06_champions_league_api"
   },
   {
-    "name": "DIO Bank",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/dio_bank/dio-bank.png",
+    "name": "Web Bank",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/web_bank/web_bank.png",
     "description": "O meu projeto mais completo até o momento, API RESTful construída seguindo a arquitetura MVC e na linguagem Python, através do framework FastAPI. Essa aplicação simula um sistema bancário simples por API, permitindo criar usuários, contas e transações. Além do funcionamento básico, a aplicação conta com sistema de autenticação, integração com banco de dados, deploy e outros.",
     "tags": ["python", "fastapi", "mysql", "api", "backend"],
     "lastUpdate": "08/05/2025",
-    "projectUrl": "https://github.com/Gabryel-Barboza/dio_bank"
+    "projectUrl": "https://github.com/Gabryel-Barboza/web_bank"
   },
   {
     "name": "Django Ecommerce",
