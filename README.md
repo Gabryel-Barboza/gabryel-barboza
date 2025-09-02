@@ -34,6 +34,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 🖼️ Portfólio
 [![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=portfolio&show_owner=true)](https://github.com/gabryel-barboza/portfolio)
