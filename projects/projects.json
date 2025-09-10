@@ -62,5 +62,13 @@
     "tags": ["agentic AI", "python", "docker", "fullstack"],
     "lastUpdate": "10/06/2025",
     "projectUrl": "https://github.com/gabryel-barboza/rag_agent_chatbot"
+  },
+  {
+    "name": "Agente de Automação para VR",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/automated_mv_agent/automated_mv_agent.png",
+    "description": "Um agente de automação desenvolvido durante o curso I2A2 com a capacidade de analisar planilhas (por enquanto 1 em específico) com dados de funcionários e através de LLMs, tratar os dados e calcular o VR final de cada colaborador.",
+    "tags": ["agentic AI", "python", "fastapi", "docker", "fullstack"],
+    "lastUpdate": "09/09/2025",
+    "projectUrl": "https://github.com/gabryel-barboza/automated_mv_agent"
   }
 ]
