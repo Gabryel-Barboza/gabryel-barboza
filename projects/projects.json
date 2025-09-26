@@ -56,12 +56,12 @@
     "projectUrl": "https://github.com/Gabryel-Barboza/python_chatbot"
   },
   {
-    "name": "RAG Agent Chatbot",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/rag_agent_chatbot/rag-agent-chatbot.png",
+    "name": "RAG Chatbot Agent",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/rag_chatbot_agent/rag_chatbot_agent.png",
     "description": "Projeto desenvolvido para o curso I2A2 de agentes autônomos, utiliza as tecnologias Docker, N8N, Flask e JavaScript para criar um chatbot com uma base de dados de notas fiscais (RAG). O projeto foi dividido em contêineres Docker que se comunicam por uma mesma rede, onde um desses está o back-end do N8N para criação do fluxo do agente.",
     "tags": ["agentic AI", "python", "docker", "fullstack"],
     "lastUpdate": "10/06/2025",
-    "projectUrl": "https://github.com/gabryel-barboza/rag_agent_chatbot"
+    "projectUrl": "https://github.com/gabryel-barboza/rag_chatbot_agent"
   },
   {
     "name": "Agente de Automação para VR",
