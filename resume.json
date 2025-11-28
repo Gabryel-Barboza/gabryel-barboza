@@ -38,7 +38,7 @@
     },
     {
       "name": "MySQL",
-      "description": "Sistema gerenciador de banco de dados do qual possuo maior experiência, onde aprendi alguns tópicos mais avançados como gerenciamento de transações e aperfeiçoei minha lógica de SQL.",
+      "description": "Sistema gerenciador de banco de dados do qual possuo maior experiência, partindo da criação de consultas SQL básicas e da modelagem conceitual e lógica de bancos de dados até o SQL dinâmico, gerenciamento de transações, eventos e outros.",
       "level": "Intermediário"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "FastAPI",
-      "description": "O melhor framework para desenvolvimento de aplicações web com Python, com alta velocidade, validações eficientes e uma arquitetura modular para os projetos. Ótimo para desenvolver APIs, mas também o usei para criar conexões WebSocket em um de meus projetos.",
+      "description": "O melhor framework para desenvolvimento de aplicações web com Python, possuindo alta velocidade, validações eficientes e uma arquitetura modular para os projetos. Ótimo para desenvolver APIs, mas também o usei para criar conexões WebSocket em um de meus projetos.",
       "level": "Intermediário"
     },
     {
@@ -78,7 +78,7 @@
     },
     {
       "name": "PHP",
-      "description": "Como necessidade para trabalhos e provas da faculdade, aprendi a sintaxe da linguagem PHP e achei esta interessante. Portanto, possuo conhecimento prévio desta linguagem para criação de aplicações SSR.",
+      "description": "Como necessidade para trabalhos e provas da faculdade de ADS, aprendi a sintaxe da linguagem PHP e achei esta interessante. Portanto, possuo conhecimento prévio desta linguagem para criação de aplicações SSR.",
       "level": "Básico"
     }
   ],
@@ -90,12 +90,12 @@
     },
     {
       "name": "Linux",
-      "description": "Depois de um tempo utilizando o Windows, busquei descobrir sobre novos sistemas operacionais. A primeira distribuição que comecei foi o Ubuntu e desde então é o que uso no cotidiano, a produtividade e liberdade disponibilizada pelo terminal é algo que me fascinou.",
+      "description": "Depois de um tempo utilizando o Windows, busquei descobrir sobre novos sistemas operacionais. A primeira distribuição que comecei no universo Linux foi o Ubuntu e desde então é o que escolhi usar no cotidiano, a produtividade e liberdade disponibilizada pelo terminal é uma das características mais vantajosas desse sistema.",
       "level": "Intermediário"
     },
     {
       "name": "n8n",
-      "description": "Com um curso de agentes autônomos que fiz, comecei a utilizar essa ferramenta localmente com Docker e percebi o seu potencial para automatizações. Então, quando quero automatizar algo sem ser em Python, utilizo o N8N.",
+      "description": "Conheci essa ferramenta no curso para agentes de IA, comecei a utilizá-la localmente com Docker e percebi o seu potencial para automatizações com Low-code. Então, quando quero automatizar algo sem ser em Python, utilizo o n8n.",
       "level": "Intermediário"
     }
   ],
