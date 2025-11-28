@@ -112,13 +112,13 @@
         "name": "Desenvolvimento de Agentes Autônomos",
         "institute": "I2A2 - Instituto de Inteligência Artificial",
         "workload": "",
-        "certificates": [""]
+        "certificates": []
       },
       {
         "name": "Python Developer",
         "institute": "DIO - Digital Innovation One",
         "workload": "60h",
-        "certificates": ["https://assets.dio.me/d8CqZj1QdB72JnAysxzylGUN-_JO3w1gh5g_q5qwDbk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RSjlNUVU4TC5qcGc"]
+        "certificates": ["https://assets.dio.me/d8CqZj1QdB72JnAysxzylGUN-_JO3w1gh5g_q5qwDbk/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci9RSjlNUVU4TC5qcGc", "https://assets.dio.me/nc9BDlNqUIYkOmk17oxIIViy6NbTFG0syQioemn2ppQ/f:webp/h:320/q:70/w:450/L2NlcnRpZmljYXRlcy9jb3Zlci83NFRRQ1pHRS5qcGc"]
       }
     ]
   }
