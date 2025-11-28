@@ -24,6 +24,14 @@
     "projectUrl": "https://github.com/Gabryel-Barboza/DIO/tree/JavaScript/web_developer/nodejs/00_Desafios/06_champions_league_api"
   },
   {
+    "name": "VueJs Todo List",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/vue_todo_list/vuejs-todo-list.png",
+    "description": "Uma aplicação SPA para uma lista de tarefas interativa, feita utilizando o framework VueJs para aplicar os conhecimentos aprendidos. O projeto engloba as principais funcionalidades do framework front-end, como roteamento de páginas, gerenciamento de estados e reatividade.",
+    "tags": ["typescript", "vuejs", "site", "frontend"],
+    "lastUpdate": "01/06/2025",
+    "projectUrl": "https://github.com/Gabryel-Barboza/vuejs_learn?tab=readme-ov-file#aprofundando-conceitos-"
+  },
+  {
     "name": "Web Bank",
     "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/web_bank/web_bank.png",
     "description": "O meu projeto mais completo até o momento, API RESTful construída seguindo a arquitetura MVC e na linguagem Python, através do framework FastAPI. Essa aplicação simula um sistema bancário simples por API, permitindo criar usuários, contas e transações. Além do funcionamento básico, a aplicação conta com sistema de autenticação, integração com banco de dados, deploy e outros.",
@@ -40,14 +48,6 @@
     "projectUrl": "https://github.com/Gabryel-Barboza/django_learn/tree/main/learn_ecommerce"
   },
   {
-    "name": "VueJs Todo List",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/vue_todo_list/vuejs-todo-list.png",
-    "description": "Uma aplicação SPA para uma lista de tarefas interativa, feita utilizando o framework VueJs para aplicar os conhecimentos aprendidos. O projeto engloba as principais funcionalidades do framework front-end, como roteamento de páginas, gerenciamento de estados e reatividade.",
-    "tags": ["typescript", "vuejs", "site", "frontend"],
-    "lastUpdate": "01/06/2025",
-    "projectUrl": "https://github.com/Gabryel-Barboza/vuejs_learn?tab=readme-ov-file#aprofundando-conceitos-"
-  },
-  {
     "name": "Python Chatbot",
     "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/python_chatbot/python-chatbot.png",
     "description": "Um projeto realizado durante a imersão de Agentes Autônomos da Alura, com o objetivo de criar um agente seguindo o estilo de um chatbot (ou mensageiro de conversas) para responder à perguntas do usuário. O foco maior está no agente construído utilizando o ADK do Google, porém uma interface simples com Js e CSS puro foi criada.",
@@ -56,19 +56,27 @@
     "projectUrl": "https://github.com/Gabryel-Barboza/python_chatbot"
   },
   {
-    "name": "EDA Tool Agent",
+    "name": "Agente de Automação para VR",
+    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/automated_mv_agent/automated_mv_agent.png",
+    "description": "Um agente de automação desenvolvido durante o curso I2A2 com a capacidade de analisar planilhas (por enquanto 1 em específico) com dados de funcionários e através de LLMs, tratar os dados e calcular o VR final de cada colaborador.",
+    "tags": ["agentic AI", "python", "fastapi", "docker", "n8n", "fullstack"],
+    "lastUpdate": "09/09/2025",
+    "projectUrl": "https://github.com/gabryel-barboza/automated_mv_agent"
+  },
+  {
+    "name": "SophIA EDA Tool",
     "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/eda_tool_agent/rag_chatbot_agent.png",
     "description": "Projeto desenvolvido para o curso I2A2 de agentes autônomos, utiliza as tecnologias Python, Docker, FastAPI e LangChain para criar um chatbot que permite analisar bases de dados enviadas por upload. O projeto foi dividido em contêineres Docker que se comunicam por uma mesma rede, onde um desses está o back-end do FastAPI para integração e criação do fluxo do agente.",
-    "tags": ["agentic AI", "python", "docker", "fullstack"],
+    "tags": ["agentic AI", "python", "docker", "langchain", "fullstack"],
     "lastUpdate": "01/10/2025",
     "projectUrl": "https://github.com/gabryel-barboza/eda_tool_agent"
   },
   {
-    "name": "Agente de Automação para VR",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/automated_mv_agent/automated_mv_agent.png",
-    "description": "Um agente de automação desenvolvido durante o curso I2A2 com a capacidade de analisar planilhas (por enquanto 1 em específico) com dados de funcionários e através de LLMs, tratar os dados e calcular o VR final de cada colaborador.",
-    "tags": ["agentic AI", "python", "fastapi", "docker", "fullstack"],
-    "lastUpdate": "09/09/2025",
-    "projectUrl": "https://github.com/gabryel-barboza/automated_mv_agent"
+    "name": "Smart Financial Solutions",
+    "imageUrl": "",
+    "description": "Meu projeto de conclusão do curso de agentes, uma aplicação fullstack com React e FastAPI onde o usuário se comunica via interface de chat no frontend e uma arquitetura multiagentes (LangChain) com supervisor no backend realiza o percurso de processamento ideal, retornando uma resposta coerente ao usuário. O projeto possui as funcionalidades de análise de dados, busca semântica via banco vetorial com RAG, extração textual de imagens (OCR) e geração e envio de relatórios para email.",
+    "tags": ["agentic AI", "python", "fastapi", "react", "langchain", "docker", "fullstack"],
+    "lastUpdate": "31/10/2025",
+    "projectUrl": "https://github.com/gabryel-barboza/smart_financial_solutions"
   }
 ]
