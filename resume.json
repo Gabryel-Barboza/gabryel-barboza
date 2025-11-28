@@ -10,30 +10,30 @@
   },
   "job": "",
   "sex": "m",
-  "bio": "Sou um engenheiro de software apaixonado por criar aplicações funcionais e eficientes, também gosto de explorar o mundo da tecnologia e descobrir novas ferramentas, por isso busco aprender sobre áreas como cibersegurança e devops para aprimorar os meus projetos e automatizações. Tenho como princípio o aprendizado contínuo, buscando me aperfeiçoar onde for possível e necessário. Atualmente, estou buscando uma oportunidade para seguir carreira na área de tecnologia.",
+  "bio": "Sou um engenheiro de software apaixonado por criar aplicações funcionais e eficientes, também gosto de explorar o mundo da tecnologia e descobrir novas possibilidades, por isso estou sempre me atualizando para aprimorar os meus projetos e automações. Tenho como princípio o aprendizado contínuo, onde o cérebro deve estar sempre em movimento e os neurônios se desenvolvendo, em outras palavras, o conhecimento deve sempre estar se formando. Atualmente, estou em busca de uma oportunidade para seguir carreira na área de tecnologia.",
   "hobbies": [
     {
-      "hobby": "fazer musculação",
-      "description": "A saúde é um fator primordial para qualquer pessoa, então gosto de me dedicar na prática de exercícios físicos, principalmente na musculação. É um hobby que proporciona saúde física e mental, o que torna o cotidiano menos estressante."
+      "hobby": "musculação",
+      "description": "A saúde é um fator primordial para qualquer pessoa e a prática de exercícios físicos uma necessidade. Gosto de me desafiar e alcançar novas metas, a musculação proporciona esse desafio diário e também auxilia na liberação de toxinas e dissipação do estresse."
     },
     {
-      "hobby": "jogar videogames",
-      "description": "Um dos meus principais hobbies desde os sete anos de idade, sou uma pessoa aficionada por jogos e principalmente aqueles do gênero RPG. A cargo de curiosidade, os meus jogos favoritos (alguns de muitos) são: Minecraft, Persona 5 Royal, Elden Ring"
+      "hobby": "videogames",
+      "description": "Um dos meus hobbies desde os sete anos de idade, sou uma pessoa aficionada por jogos e principalmente aqueles do gênero RPG. A cargo de curiosidade, os meus jogos favoritos (alguns de muitos) são: Minecraft, Persona 5 Royal, Elden Ring. Também gosto de manter uma lista com os jogos que terminei, servindo como memorando das minhas experiências."
     },
     {
       "hobby": "estudar",
-      "description": "Estudar também é um hobby que eu tenho no tempo livre, onde busco aprender temas diferentes e que estou interessado no momento."
+      "description": "Estudar é um hobby que eu tenho no tempo livre, aprender sobre novos temas me intriga. Descobrir sobre o mundo e as ciências que o regem produz um sentimento satisfatório, entender e poder falar abertamente de um assunto é admirável."
     }
   ],
   "stack": [
     {
       "name": "Python",
-      "description": "Principal linguagem que utilizo para desenvolvimento, geralmente para criar APIs de back-end com FastAPI ou Django. Porém também para usos variados: scripts de automatização, ciência de dados, agentes autônomos, aplicativos e em breve jogos.",
+      "description": "A primeira linguagem que aprendi quando decidir seguir carreira no desenvolvimento de software. Com essa linguagem consigo fazer de tudo na programação, utilizo ela para criar aplicações web, desktop e APIs, desenvolver agentes com IA e automatizar processos. Criar jogos é a minha próxima meta com essa linguagem",
       "level": "Avançado"
     },
     {
       "name": "TypeScript",
-      "description": "Minha segunda linguagem mais utilizada, extremamente necessária para desenvolver aplicações web seja back-end com Express ou front-end com Vue.Js.",
+      "description": "Minha segunda linguagem mais utilizada, necessária para desenvolver aplicações web e sendo aplicada no back-end com Express para APIs ou no front-end com React ou Vue.js para criação de SPAs.",
       "level": "Intermediário"
     },
     {
@@ -42,14 +42,39 @@
       "level": "Intermediário"
     },
     {
-      "name": "MongoDB",
-      "description": "Banco de dados NoSQL para criar algumas automações, já possuo um pouco de conhecimento dessa tecnologia.",
+      "name": "TailwindCSS",
+      "description": "Minha biblioteca de UI preferida para acelerar o desenvolvimento de interfaces web, gosto da performance e eficiência ao usá-la e a criação de interfaces responsivas é muito mais fácil com ela.",
       "level": "Intermediário"
     },
     {
-      "name": "TailwindCSS",
-      "description": "Minha biblioteca de UI preferida para acelerar o desenvolvimento de interfaces web, gosto da performance e eficiência ao usá-la.",
+      "name": "LangChain",
+      "description": "Framework para criação de agentes autônomos com IA, para aprender a usar essa tecnologia desenvolvi dois projetos de agentes fiscais em Python. É um framework poderoso para esse propósito e com muitas integrações que auxiliam no desenvolvimento.",
       "level": "Intermediário"
+    },
+    {
+      "name": "FastAPI",
+      "description": "O melhor framework para desenvolvimento de aplicações web com Python, com alta velocidade, validações eficientes e uma arquitetura modular para os projetos. Ótimo para desenvolver APIs, mas também o usei para criar conexões WebSocket em um de meus projetos.",
+      "level": "Intermediário"
+    },
+    {
+      "name": "React",
+      "description": "O framework para criação de SPAs responsivas e elegantes, sua sintaxe e padrão de projetos é muito interessante, se tornou a minha principal escolha na criação do frontend de aplicações web. Ainda que a curva de aprendizado seja maior, achei o desenvolvimento com essa tecnologia mais coerente do que com Vue.js.",
+      "level": "Intermediário"
+    },
+    {
+      "name": "MongoDB",
+      "description": "Banco de dados NoSQL para criar algumas automações, estou aprendendo a integrar esse modelo de banco de dados nos meus projetos.",
+      "level": "Intermediário"
+    },
+    {
+      "name": "Django",
+      "description": "Framework para desenvolvimento de aplicações fullstack com Python, possui o toolkit completo para criar qualquer aplicação web. Ainda estou me desenvolvendo com esse framework, porém o padrão de arquitetura, o ORM e sua API aceleram e muito no desenvolvimento.",
+      "level": "Básico"
+    },
+    {
+      "name": "Vue.Js",
+      "description": "Meu primeiro framework para frontend, possui uma curva de aprendizado menor e uma arquitetura mais direta. É um bom framework e que me auxiliou a aprender os conceitos principais do desenvolvimento de SPAs, possuo um conhecimento básico do seu uso.",
+      "level": "Básico"
     },
     {
       "name": "PHP",
@@ -60,7 +85,7 @@
   "extra": [
     {
       "name": "Docker",
-      "description": "Aprendi a criar contêineres do Docker, a utilizar o Compose para uma orquestração simples de contêineres e também o Docker Swarm para sistemas maiores. Gosto dessa tecnologia, pois me permite explorar a arquitetura de microsserviços melhor.",
+      "description": "Aprendi a criar contêineres do Docker, a utilizar o Compose para uma orquestração simples de contêineres e também o Docker Swarm para sistemas maiores. Gosto dessa tecnologia, pois me permite explorar a arquitetura de microsserviços e criar soluções portáteis.",
       "level": "Intermediário"
     },
     {
@@ -82,6 +107,19 @@
         "date": "01/2024 - 07/2026"
       }
     ],
-    "courses": []
+    "courses": [
+      {
+        "name": "Desenvolvimento de Agentes Autônomos",
+        "institute": "I2A2 - Instituto de Inteligência Artificial",
+        "workload": "",
+        "certificate": ""
+      },
+      {
+        "name": "Python Developer",
+        "institute": "DIO - Digital Innovation One",
+        "workload": "60h",
+        "certificate": ""
+      }
+    ]
   }
 }
