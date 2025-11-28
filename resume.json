@@ -10,7 +10,7 @@
   },
   "job": "",
   "sex": "m",
-  "bio": "Sou um engenheiro de software apaixonado por criar aplicações funcionais e eficientes, também gosto de explorar o mundo da tecnologia e descobrir novas possibilidades, por isso estou sempre me atualizando para aprimorar os meus projetos e automações. Tenho como princípio o aprendizado contínuo, onde o cérebro deve estar sempre em movimento e os neurônios se desenvolvendo, em outras palavras, o conhecimento deve sempre estar se formando. Atualmente, estou em busca de uma oportunidade para seguir carreira na área de tecnologia.",
+  "bio": "Sou um engenheiro de software apaixonado por criar aplicações funcionais e eficientes, também gosto de explorar o mundo da tecnologia e descobrir novas possibilidades, por isso estou sempre me atualizando para aprimorar os meus projetos e automações. Tenho como princípio o aprendizado contínuo, onde o cérebro deve estar sempre em movimento e os neurônios se desenvolvendo, em outras palavras, o conhecimento deve estar sempre se formando. Atualmente, estou em busca de uma oportunidade para seguir carreira na área de tecnologia.",
   "hobbies": [
     {
       "hobby": "musculação",
@@ -28,7 +28,7 @@
   "stack": [
     {
       "name": "Python",
-      "description": "A primeira linguagem que aprendi quando decidir seguir carreira no desenvolvimento de software. Com essa linguagem consigo fazer de tudo na programação, utilizo ela para criar aplicações web, desktop e APIs, desenvolver agentes com IA e automatizar processos. Criar jogos é a minha próxima meta com essa linguagem",
+      "description": "A primeira linguagem que aprendi quando decidir seguir carreira no desenvolvimento de software. Com essa linguagem consigo fazer de tudo na programação, utilizo ela para criar aplicações web e desktop, desenvolver agentes com IA e automatizar processos. Criar jogos é a minha próxima meta com essa linguagem.",
       "level": "Avançado"
     },
     {
