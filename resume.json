@@ -126,6 +126,12 @@
         "workload": "80h",
         "certificates": ["https://drive.google.com/file/d/1a_SSv4YQaOPZspnJAQvAVHk-WQZOY88p/view?usp=sharing"]
       },
+      {
+        "name": "",
+        "institute": "",
+        "workload": "",
+        "certificates": []
+      }
     ]
   }
 }
