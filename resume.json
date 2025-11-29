@@ -129,8 +129,14 @@
       {
         "name": "Web Developer",
         "institute": "DIO - Digital Innovation One",
-        "workload": "64h",
+        "workload": "90h",
         "certificates": ["https://drive.google.com/uc?export=view&id=1bJ_ToOg99ozt9675sDpo0gGpZX-giVxY", "https://drive.google.com/uc?export=view&id=1g3ormsZVxFVhQ12MAnyMC3naJWxGPrto", "https://drive.google.com/uc?export=view&id=1g1rGpu8c0EAWqW98-pHoof3InlbMCAdb"]
+      },
+      {
+        "name": "Fundamentos de Cibersegurança",
+        "institute": "Hackers do Bem",
+        "workload": "64h",
+        "certificates": ["https://drive.google.com/uc?export=view&id=14OfNHus2lpsWAhVQguH1XbPpLHovLco6"]
       }
     ]
   }
