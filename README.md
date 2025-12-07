@@ -29,6 +29,7 @@
 
 ![N8N](https://img.shields.io/badge/N8N-black?style=for-the-badge&logo=n8n&logoColor=%23c11a1a&logoSize=auto)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 ### 📖 Estudando Sobre
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -37,12 +38,12 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### 🖼️ Portfólio
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=portfolio&show_owner=true)](https://github.com/gabryel-barboza/portfolio)
+[![README Card](https://github-readme-stats-seven-sooty-11.vercel.app/api/pin/?username=gabryel-barboza&repo=portfolio&show_owner=true)](https://github.com/gabryel-barboza/portfolio)
 
 ### 📦 Melhores Repositórios
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=web_bank&show_owner=true)](https://github.com/gabryel-barboza/web_bank)
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=smart_financial_solutions&show_owner=true)](https://github.com/gabryel-barboza/smart_financial_solutions)
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=automated_mv_agent&show_owner=true)](https://github.com/gabryel-barboza/automated_mv_agent)
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=eda_tool_agent&show_owner=true)](https://github.com/Gabryel-Barboza/eda_tool_agent/tree/main)
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=django_learn&show_owner=true)](https://github.com/gabryel-barboza/django_learn)
-[![README Card](https://github-readme-stats.vercel.app/api/pin/?username=gabryel-barboza&repo=vuejs_learn&show_owner=true)](https://github.com/gabryel-barboza/vuejs_learn)
+[![README Card](https://github-readme-stats-seven-sooty-11.vercel.app/api/pin/?username=gabryel-barboza&repo=web_bank&show_owner=true)](https://github.com/gabryel-barboza/web_bank)
+[![README Card](https://github-readme-stats-seven-sooty-11.vercel.app/api/pin/?username=gabryel-barboza&repo=smart_financial_solutions&show_owner=true)](https://github.com/gabryel-barboza/smart_financial_solutions)
+[![README Card](https://github-readme-stats-seven-sooty-11.vercel.app/api/pin/?username=gabryel-barboza&repo=automated_mv_agent&show_owner=true)](https://github.com/gabryel-barboza/automated_mv_agent)
+[![README Card](https://github-readme-stats-seven-sooty-11.vercel.app/api/pin/?username=gabryel-barboza&repo=eda_tool_agent&show_owner=true)](https://github.com/Gabryel-Barboza/eda_tool_agent/tree/main)
+[![README Card](https://github-readme-stats-seven-sooty-11.vercel.app/api/pin/?username=gabryel-barboza&repo=django_learn&show_owner=true)](https://github.com/gabryel-barboza/django_learn)
+[![README Card](https://github-readme-stats-seven-sooty-11.vercel.app/api/pin/?username=gabryel-barboza&repo=vuejs_learn&show_owner=true)](https://github.com/gabryel-barboza/vuejs_learn)
