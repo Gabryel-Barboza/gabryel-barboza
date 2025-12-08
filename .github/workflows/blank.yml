@@ -37,7 +37,7 @@ jobs:
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_ignored: html, css, java, mako, jupiter notebook
+          plugin_languages_ignored: html, css, mako, jupyter notebook, dockerfile
           plugin_languages_limit: 7
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
