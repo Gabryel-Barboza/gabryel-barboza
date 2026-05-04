@@ -1,15 +1,36 @@
 [
   {
     "name": "HBO Clone",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/hbo_clone/hbo_clone_image.png",
-    "description": "Um site desenvolvido durante meu curso para aprender CSS. É um clone de uma versão do site de assinaturas da HBO, feito apenas com HTML e CSS para por em prática os conhecimentos de CSS3, inclui tópicos como responsividade, animações, transições e muitos outros.",
+    "projectMedia": [
+      {
+        "type": "picture",
+        "url": "https://drive.google.com/uc?export=view&id=107gDfZS5TwYl_XR-Q7KLqrXAIwizrRLe",
+        "altText": ""
+      },
+      {
+        "type": "picture",
+        "url": "https://drive.google.com/uc?export=view&id=14F_2BHj3M0F7iZeD2U3hAKOKgWGxti2e",
+        "altText": ""
+      },
+      {
+        "type": "picture",
+        "url": "https://drive.google.com/uc?export=view&id=1wcMdNERYi-IZk2AhkiE0AqaFkDtLkwnK",
+        "altText": ""
+      },
+      {
+        "type": "picture",
+        "url": "https://drive.google.com/uc?export=view&id=1h4A7p2NpbzaMioRd1FAg6uA6TxKixRdL",
+        "altText": ""
+      }
+    ],
+    "description": "Um site desenvolvido durante meu curso para aprender CSS. É um clone de uma versão do site de assinaturas da HBO, feito apenas com HTML e CSS para por em prática os conhecimentos obtidos, inclui tópicos como responsividade, animações, transições e muitos outros.",
     "tags": ["html5", "css3", "site", "frontend"],
     "lastUpdate": "27/07/2024",
     "projectUrl": "https://gabryel-barboza.github.io/DIO/web_developer/javascript/Desafios/Desafios_CSS/Clone%20HBO%20Max/"
   },
   {
     "name": "Pokedex",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/pokedex/pokedex.png",
+    "projectMedia": [""],
     "description": "Um desafio realizado durante o curso para aprender JavaScript com o objetivo de criar uma Pokedex que consome a PokeAPI disponível publicamente, com o objetivo de retornar os dados de cada pokemon. Esse projeto aplica conceitos fundamentais do JavaScript, além de assincronismo e o uso da FetchAPI.",
     "tags": ["html5", "css3", "javascript", "site", "frontend"],
     "lastUpdate": "29/07/2024",
@@ -17,7 +38,7 @@
   },
   {
     "name": "Express Champions League",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
+    "projectMedia": [""],
     "description": "Esse projeto foi desenvolvido enquanto eu explorava a criação de APIs REST com a arquitetura MVC. O projeto foi implementado utilizando NodeJs e o framework Express, a API consiste em um servidor back-end para fornecer dados sobre jogadores de futebol de um repositório simples local.",
     "tags": ["javascript", "nodejs", "api", "backend"],
     "lastUpdate": "07/02/2025",
@@ -25,7 +46,7 @@
   },
   {
     "name": "VueJs Todo List",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/vue_todo_list/vuejs-todo-list.png",
+    "projectMedia": [""],
     "description": "Uma aplicação SPA para uma lista de tarefas interativa, feita utilizando o framework VueJs para aplicar os conhecimentos aprendidos. O projeto engloba as principais funcionalidades do framework front-end, como roteamento de páginas, gerenciamento de estados e reatividade.",
     "tags": ["typescript", "vuejs", "site", "frontend"],
     "lastUpdate": "01/06/2025",
@@ -33,7 +54,7 @@
   },
   {
     "name": "Web Bank",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/web_bank/web_bank.png",
+    "projectMedia": [""],
     "description": "O meu projeto mais completo até o momento, API RESTful construída seguindo a arquitetura MVC e na linguagem Python, através do framework FastAPI. Essa aplicação simula um sistema bancário simples por API, permitindo criar usuários, contas e transações. Além do funcionamento básico, a aplicação conta com sistema de autenticação, integração com banco de dados, deploy e outros.",
     "tags": ["python", "fastapi", "mysql", "api", "backend"],
     "lastUpdate": "08/05/2025",
@@ -41,7 +62,7 @@
   },
   {
     "name": "Django Ecommerce",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/",
+    "projectMedia": [""],
     "description": "Projeto de construção de uma aplicação fullstack com Django e VueJs. O projeto ainda está em andamento e construção...",
     "tags": ["python", "typescript", "tailwindcss", "django", "vuejs", "fullstack"],
     "lastUpdate": "10/06/2025",
@@ -49,15 +70,17 @@
   },
   {
     "name": "Python Chatbot",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/python_chatbot/python-chatbot.png",
+    "projectMedia": [""],
     "description": "Um projeto realizado durante a imersão de Agentes Autônomos da Alura, com o objetivo de criar um agente seguindo o estilo de um chatbot (ou mensageiro de conversas) para responder à perguntas do usuário. O foco maior está no agente construído utilizando o ADK do Google, porém uma interface simples com Js e CSS puro foi criada.",
-    "tags": ["python", "AI", "agentic AI", "fullstack"],
+    "tags": ["python", "AI", "fullstack"],
     "lastUpdate": "07/06/2025",
     "projectUrl": "https://github.com/Gabryel-Barboza/python_chatbot"
   },
   {
     "name": "Agente de Automação para VR",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/automated_mv_agent/automated_mv_agent.png",
+    "projectMedia": [
+      "https://drive.google.com/uc?export=view&id=1hC13fhk3pnZ2BVrGFfZrSosytY_RyY-x"
+    ],
     "description": "Um agente de automação desenvolvido durante o curso I2A2 com a capacidade de analisar planilhas (por enquanto 1 em específico) com dados de funcionários e através de LLMs, tratar os dados e calcular o VR final de cada colaborador.",
     "tags": ["agentic AI", "python", "fastapi", "docker", "n8n", "fullstack"],
     "lastUpdate": "09/09/2025",
@@ -65,7 +88,7 @@
   },
   {
     "name": "SophIA EDA Tool",
-    "imageUrl": "https://raw.githubusercontent.com/Gabryel-Barboza/gabryel-barboza/refs/heads/main/projects/eda_tool_agent/rag_chatbot_agent.png",
+    "projectMedia": [""],
     "description": "Projeto desenvolvido para o curso I2A2 de agentes autônomos, utiliza as tecnologias Python, Docker, FastAPI e LangChain para criar um chatbot que permite analisar bases de dados enviadas por upload. O projeto foi dividido em contêineres Docker que se comunicam por uma mesma rede, onde um desses está o back-end do FastAPI para integração e criação do fluxo do agente.",
     "tags": ["agentic AI", "python", "docker", "langchain", "fullstack"],
     "lastUpdate": "01/10/2025",
@@ -73,7 +96,7 @@
   },
   {
     "name": "Smart Financial Solutions",
-    "imageUrl": "",
+    "projectMedia": [""],
     "description": "Meu projeto de conclusão do curso de agentes, uma aplicação fullstack com React e FastAPI onde o usuário se comunica via interface de chat no frontend e uma arquitetura multiagentes (LangChain) com supervisor no backend realiza o percurso de processamento ideal, retornando uma resposta coerente ao usuário. O projeto possui as funcionalidades de análise de dados, busca semântica via banco vetorial com RAG, extração textual de imagens (OCR) e geração e envio de relatórios para email.",
     "tags": ["agentic AI", "python", "fastapi", "react", "langchain", "docker", "fullstack"],
     "lastUpdate": "31/10/2025",
