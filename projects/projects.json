@@ -4,23 +4,23 @@
     "projectMedia": [
       {
         "type": "picture",
-        "url": "https://drive.google.com/uc?export=view&id=107gDfZS5TwYl_XR-Q7KLqrXAIwizrRLe",
-        "altText": ""
+        "url": "https://res.cloudinary.com/dj1dd7ahf/image/upload/v1779080829/hbo_clone_image_eplznw.png",
+        "altText": "Página HBO Tela Mobile"
       },
       {
         "type": "picture",
-        "url": "https://drive.google.com/uc?export=view&id=14F_2BHj3M0F7iZeD2U3hAKOKgWGxti2e",
-        "altText": ""
+        "url": "https://res.cloudinary.com/dj1dd7ahf/image/upload/v1779080829/hbo_clone_image-2_wsilsx.png",
+        "altText": "Página HBO Tela Desktop"
       },
       {
         "type": "picture",
-        "url": "https://drive.google.com/uc?export=view&id=1wcMdNERYi-IZk2AhkiE0AqaFkDtLkwnK",
-        "altText": ""
+        "url": "https://res.cloudinary.com/dj1dd7ahf/image/upload/v1779080829/hbo_clone_image-3_iuympa.png",
+        "altText": "Página HBO 2"
       },
       {
         "type": "picture",
-        "url": "https://drive.google.com/uc?export=view&id=1h4A7p2NpbzaMioRd1FAg6uA6TxKixRdL",
-        "altText": ""
+        "url": "https://res.cloudinary.com/dj1dd7ahf/image/upload/v1779080829/hbo_clone_image-4_vvw2b4.png",
+        "altText": "Página HBO 3"
       }
     ],
     "description": "Um site desenvolvido durante meu curso para aprender CSS. É um clone de uma versão do site de assinaturas da HBO, feito apenas com HTML e CSS para por em prática os conhecimentos obtidos, inclui tópicos como responsividade, animações, transições e muitos outros.",
